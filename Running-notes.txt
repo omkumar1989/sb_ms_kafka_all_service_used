@@ -1,0 +1,15 @@
+To start application :
+
+1. Run config server
+- after run you can check like below
+http://localhost:8888/currency-exchange-service/default
+http://localhost:8888/currency-exchange-service/dev
+http://localhost:8888/currency-exchange-service/qa
+similar you can check other service cloud properties
+2. naming-server
+3. other application like eureka server and other application
+
+
+H2 console db url : http://localhost:8000/h2-console  : once you start h2 console db
+
+
